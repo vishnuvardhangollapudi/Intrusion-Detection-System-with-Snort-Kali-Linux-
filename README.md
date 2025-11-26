@@ -39,13 +39,6 @@ The goal is to detect reconnaissance attempts and analyze true positives vs fals
 - `rules/local.rules`  
   Custom Snort rules used to detect ICMP and Nmap scans.
 
-- `screenshots/`  
-  Screenshots of:
-  - Snort installation and version check
-  - Rule file editing
-  - Snort running in IDS mode
-  - Sample alerts
-
 - `logs/sample-alert_fast.txt`  
   Sample `alert_fast` output from Snort during the experiment.
 
