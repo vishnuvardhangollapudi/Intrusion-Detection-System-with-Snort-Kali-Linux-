@@ -1,0 +1,30 @@
+11/12-23:17:40.517345 [**] [1:2000001:1] "ICMP Echo Request - Possible alert icmp ping scan" [**] [Classification: Attempted Information Leak] [Priority: 2] {ICMP} 192.168.232.254 -> 192.168.232.144
+11/12-23:51:14.402729 [**] [1:2000001:1] "ICMP Echo Request - Possible alert icmp ping scan" [**] [Classification: Attempted Information Leak] [Priority: 2] {ICMP} 192.168.232.145 -> 192.168.232.134
+11/12-23:51:15.434517 [**] [1:2000001:1] "ICMP Echo Request - Possible alert icmp ping scan" [**] [Classification: Attempted Information Leak] [Priority: 2] {ICMP} 192.168.232.145 -> 192.168.232.134
+11/12-23:51:16.472208 [**] [1:2000001:1] "ICMP Echo Request - Possible alert icmp ping scan" [**] [Classification: Attempted Information Leak] [Priority: 2] {ICMP} 192.168.232.145 -> 192.168.232.134
+11/12-23:51:17.491692 [**] [1:2000001:1] "ICMP Echo Request - Possible alert icmp ping scan" [**] [Classification: Attempted Information Leak] [Priority: 2] {ICMP} 192.168.232.145 -> 192.168.232.134
+11/13-00:22:43.671888 [**] [1:2000001:1] "ICMP Echo Request - Possible alert icmp ping scan" [**] [Classification: Attempted Information Leak] [Priority: 2] {ICMP} 192.168.232.254 -> 192.168.232.145
+11/13-00:22:43.671888 [**] [1:1000001:1] "ICMP Echo Request" [**] [Priority: 0] {ICMP} 192.168.232.254 -> 192.168.232.145
+11/13-00:22:51.058056 [**] [1:2000001:1] "ICMP Echo Request - Possible alert icmp ping scan" [**] [Classification: Attempted Information Leak] [Priority: 2] {ICMP} 192.168.232.254 -> 192.168.232.145
+11/13-00:22:51.058056 [**] [1:1000001:1] "ICMP Echo Request" [**] [Priority: 0] {ICMP} 192.168.232.254 -> 192.168.232.145
+11/13-00:29:11.844578 [**] [1:2000001:1] "ICMP Echo Request - Possible alert icmp ping scan" [**] [Classification: Attempted Information Leak] [Priority: 2] {ICMP} 192.168.232.145 -> 192.168.232.134
+11/13-00:29:11.844578 [**] [1:1000001:1] "ICMP Echo Request" [**] [Priority: 0] {ICMP} 192.168.232.145 -> 192.168.232.134
+11/13-00:29:16.441284 [**] [1:2000001:1] "ICMP Echo Request - Possible alert icmp ping scan" [**] [Classification: Attempted Information Leak] [Priority: 2] {ICMP} 192.168.232.145 -> 192.168.232.134
+11/13-00:29:16.441284 [**] [1:1000001:1] "ICMP Echo Request" [**] [Priority: 0] {ICMP} 192.168.232.145 -> 192.168.232.134
+11/13-00:29:18.256342 [**] [1:2000001:1] "ICMP Echo Request - Possible alert icmp ping scan" [**] [Classification: Attempted Information Leak] [Priority: 2] {ICMP} 192.168.232.145 -> 192.168.232.134
+11/13-00:29:18.256342 [**] [1:1000001:1] "ICMP Echo Request" [**] [Priority: 0] {ICMP} 192.168.232.145 -> 192.168.232.134
+11/13-00:29:21.986760 [**] [1:2000001:1] "ICMP Echo Request - Possible alert icmp ping scan" [**] [Classification: Attempted Information Leak] [Priority: 2] {ICMP} 192.168.232.145 -> 192.168.232.134
+11/13-00:29:21.986760 [**] [1:1000001:1] "ICMP Echo Request" [**] [Priority: 0] {ICMP} 192.168.232.145 -> 192.168.232.134
+11/13-00:29:27.491834 [**] [1:2000001:1] "ICMP Echo Request - Possible alert icmp ping scan" [**] [Classification: Attempted Information Leak] [Priority: 2] {ICMP} 192.168.232.145 -> 192.168.232.134
+11/13-00:29:27.491834 [**] [1:1000001:1] "ICMP Echo Request" [**] [Priority: 0] {ICMP} 192.168.232.145 -> 192.168.232.134
+11/13-00:29:29.722654 [**] [1:2000001:1] "ICMP Echo Request - Possible alert icmp ping scan" [**] [Classification: Attempted Information Leak] [Priority: 2] {ICMP} 192.168.232.145 -> 192.168.232.134
+11/13-00:29:29.722654 [**] [1:1000001:1] "ICMP Echo Request" [**] [Priority: 0] {ICMP} 192.168.232.145 -> 192.168.232.134
+11/13-00:29:31.250655 [**] [1:2000001:1] "ICMP Echo Request - Possible alert icmp ping scan" [**] [Classification: Attempted Information Leak] [Priority: 2] {ICMP} 192.168.232.145 -> 192.168.232.134
+11/13-00:29:31.250655 [**] [1:1000001:1] "ICMP Echo Request" [**] [Priority: 0] {ICMP} 192.168.232.145 -> 192.168.232.134
+11/13-00:29:34.172736 [**] [1:2000001:1] "ICMP Echo Request - Possible alert icmp ping scan" [**] [Classification: Attempted Information Leak] [Priority: 2] {ICMP} 192.168.232.145 -> 192.168.232.134
+11/13-00:29:34.172736 [**] [1:1000001:1] "ICMP Echo Request" [**] [Priority: 0] {ICMP} 192.168.232.145 -> 192.168.232.134
+11/13-00:36:44.675854 [**] [1:1000002:1] "Nmap TCP SYN Scan" [**] [Priority: 0] {TCP} 192.168.232.1:60741 -> 192.168.232.134:21
+11/13-00:36:45.191557 [**] [1:1000002:1] "Nmap TCP SYN Scan" [**] [Priority: 0] {TCP} 192.168.232.1:60741 -> 192.168.232.134:21
+11/13-00:36:45.701269 [**] [1:1000002:1] "Nmap TCP SYN Scan" [**] [Priority: 0] {TCP} 192.168.232.1:60741 -> 192.168.232.134:21
+11/13-00:36:46.213125 [**] [1:1000002:1] "Nmap TCP SYN Scan" [**] [Priority: 0] {TCP} 192.168.232.1:60741 -> 192.168.232.134:21
+11/13-00:36:46.715140 [**] [1:1000002:1] "Nmap TCP SYN Scan" [**] [Priority: 0] {TCP} 192.168.232.1:60741 -> 192.168.232.134:21
